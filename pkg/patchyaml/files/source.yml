@@ -1,0 +1,9 @@
+name: andrew
+info:
+  age: 28
+  address: GZ
+  goods:
+  - python
+  - golang
+  - java
+  

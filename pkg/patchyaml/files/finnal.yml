@@ -1,0 +1,8 @@
+info:
+  address: DongGuang
+  age: 18
+  goods:
+  - python
+  - golang
+  - java
+name: xiaoming
